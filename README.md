@@ -1,4 +1,4 @@
-# vue-scratch-app
+# Todo List
 
 ## Project setup
 ```
