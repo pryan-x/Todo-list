@@ -4,7 +4,9 @@ const app = express()
 const apiRoute = require('./routes.js')
 
 
-// const bodyParser = require('body-xparser')
+const dotenv = require('dotenv')
+dotenv.config()
+
 const cors = require('cors')
 
 //middleware
